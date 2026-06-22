@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Обновление интерфейса в новом релизе",
+      "image": "https://example.com/images/update1.jpg",
+      "url": "https://example.com/news/update1"
+    },
+    {
+      "title": "Smart Launcher теперь поддерживает виджеты",
+      "image": "https://example.com/images/widgets.jpg",
+      "url": "https://example.com/news/widgets"
+    },
+    {
+      "title": "Новое партнерство с производителями устройств",
+      "image": "https://example.com/images/partnership.jpg",
+      "url": "https://example.com/news/partnership"
+    },
+    {
+      "title": "Как настроить темы в Smart Launcher",
+      "image": "https://example.com/images/themes.jpg",
+      "url": "https://example.com/news/themes"
+    }
+  ]
+  
