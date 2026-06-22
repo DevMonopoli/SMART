@@ -7,6 +7,6 @@
   "URL_YOUTUBE": "https://youtube.com/@example",
   "URL_FORUM": "https://forum.example.com",
   "URL_DONATE": "https://example.com/donate",
-  "clientVersionCode": 1,
+  "clientVersionCode": 100,
   "gameFilesVersionCode": 1
 }
