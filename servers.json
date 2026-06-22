@@ -1,12 +1,18 @@
 [
-    {
-        "server_number": "01",
-        "server_name": "SMART RP: 01",
-        "online": "1000/1000"
-    },
-    {
-        "server_number": "02",
-        "server_name": "SMART RP: 02",
-        "online": "1500/1000"
-    }
+  {
+    "ip": "	141.95.190.139",
+    "port": 1213,
+    "x2": true,
+    "name": "Server 1",
+    "online": 1000,
+    "maxonline": 2000
+  },
+  {
+    "ip": "141.95.190.139",
+    "port": 1213,
+    "x2": false,
+    "name": "Server 2",
+    "online": 500,
+    "maxonline": 1000
+  }
 ]
