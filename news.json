@@ -1,6 +1,8 @@
-{
-  "title": "Заголовок истории",
-  "text": "Описание или текст истории",
-  "image": "https://example.com/image.png",
-  "link": "https://example.com"
-}
+[
+  {
+    "title": "Новость",
+    "text": "Описание",
+    "image": "https://example.com/img.png",
+    "link": "https://example.com"
+  }
+]
