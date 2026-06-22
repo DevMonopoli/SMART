@@ -1,0 +1,12 @@
+{
+  "URL_CLIENT": "https://example.com/client.apk",
+  "URL_GAME_FILES": "https://example.com/game/files",
+  "URL_GAME_FILES_UPD": "https://example.com/game/update",
+  "URL_VK": "https://vk.com/example",
+  "URL_DISCORD": "https://discord.gg/example",
+  "URL_YOUTUBE": "https://youtube.com/@example",
+  "URL_FORUM": "https://forum.example.com",
+  "URL_DONATE": "https://example.com/donate",
+  "clientVersionCode": 1,
+  "gameFilesVersionCode": 1
+}
